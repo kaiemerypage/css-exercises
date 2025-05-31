@@ -1,0 +1,18 @@
+.pink-highlight {
+  background-color: #fba3a8;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.bigger {
+  font-size: 24px;
+}
+
+#blue-text {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#green-highlight {
+  background-color: #90ee90;
+  font-weight: bold;
+}
